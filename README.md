@@ -1,0 +1,1 @@
+This module is used to predict whether a given image is a cat or a dog using a trained Convolutional Neural Network (CNN) model. It takes an image file as input, processes it, and outputs a prediction with probability.
